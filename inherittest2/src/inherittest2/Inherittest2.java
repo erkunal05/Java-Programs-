@@ -7,7 +7,7 @@
  *
  * @author kunal
  */
-class animal
+ class animal
 {
     void eat()
     {
